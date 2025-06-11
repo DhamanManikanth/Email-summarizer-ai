@@ -1,0 +1,5 @@
+pytz
+transformers
+torch
+win10toast
+apscheduler
